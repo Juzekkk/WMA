@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\Juzek\source\repos\WMA\WMA\main.cpp(157,19): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Juzek\source\repos\WMA\WMA\main.cpp(158,23): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Juzek\source\repos\WMA\WMA\main.cpp(200,63): warning C4244: "=": konwersja z "double" do "_Tp", możliwa utrata danych
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\Juzek\source\repos\WMA\WMA\main.cpp(235,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  WMA.vcxproj -> C:\Users\Juzek\source\repos\WMA\x64\Debug\WMA.exe
